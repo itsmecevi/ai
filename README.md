@@ -35,6 +35,8 @@ Key Insights:
 - 🤖 AI, or Artificial Intelligence, is a term often heard in today’s world. It refers to the creation of machines that can mimic human intelligence. This concept has become increasingly popular due to its potential to revolutionize various industries and improve efficiency.
 - 🧠 The human brain serves as the center of intelligence, processing information from different senses to make decisions. Similarly, AI acts as an artificial brain that processes data from various sources, such as images, videos, and audio, to determine the next course of action.
 - 💻 AI is developed through coding and programming. It involves using programming languages to create algorithms and instructions that enable machines to perform tasks and make decisions autonomously. This coding aspect sets AI apart from other technologies.
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 <a name="2"></a>
 **2. Machine that can learn?**
@@ -64,7 +66,8 @@ Key Insights:
   - Few shot learning
   - Zero shot learning
   - etc
-
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 <a name="3"></a>
 **3. Machine that can't learn: Rule-Based System**
@@ -90,7 +93,8 @@ Key Insights:
 - 🧠 To address this issue, machine learning can be used to allow AI to implicitly learn these rules. For example, in temperature control AI, machine learning can learn room temperature patterns, electricity usage, or the presence of people to make AC settings more efficient.
 - 💡 The use of machine learning also helps spam email filtering AI distinguish between spam and non-spam emails. AI can learn from sets of spam and non-spam emails to recognize patterns that differentiate them.
 - 🔍 Thus, the use of machine learning can enhance the performance of AI that doesn't learn through rule-based systems, making it more adaptive and efficient in its tasks.
-
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 <a name="4"></a>
 **4. Factors of AI Booming**
@@ -109,7 +113,8 @@ Key Insights:
 - 🌐 The ImageNet dataset has played a crucial role in AI development by providing a large and diverse dataset for training AI models. This aids in enhancing AI accuracy and performance.
 - 🏆 The success of deep learning in the ImageNet challenge marks a turning point in AI popularity, showcasing that deep learning can overcome the limitations of traditional machine learning and deliver superior results.
 - 💻 Hardware developments, particularly faster GPUs compared to CPUs, enable more efficient and effective deep learning operations. This allows more people to learn and develop AI with easier access to the required computational resources.
-
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 
 <a name="5"></a>
@@ -139,7 +144,8 @@ Key Insights:
 - 🚫 AI-based anomaly detection can help protect against fraud or unusual criminal activities. For example, detecting unusual credit card usage or criminal activities detected through CCTV data processing.
 - 🖼️ AI data synthesis allows for the creation of new data resembling existing datasets. This can be used to improve AI accuracy by learning from more data.
 - 📷 AI denoising can clean noisy inputs, such as blurry photos or unclear sounds. This can enhance the quality of images or sounds used.
-
+<a name="id"></a>
+[**Back to HOME**](#100)
 
 
 
