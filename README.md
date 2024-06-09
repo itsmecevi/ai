@@ -31,5 +31,5 @@ Artificial Intelligence, or AI, is the concept of creating machines that can pro
 - 🧠 The human brain serves as the center of intelligence, processing information from different senses to make decisions. Similarly, AI acts as an artificial brain that processes data from various sources, such as images, videos, and audio, to determine the next course of action.
 - 💻 AI is developed through coding and programming. It involves using programming languages to create algorithms and instructions that enable machines to perform tasks and make decisions autonomously. This coding aspect sets AI apart from other technologies.
 
-
+<a name="2"></a>
 **2. Machine that can learn?**
