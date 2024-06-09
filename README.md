@@ -35,6 +35,8 @@ Key Insights:
 - 🤖 AI, or Artificial Intelligence, is a term often heard in today’s world. It refers to the creation of machines that can mimic human intelligence. This concept has become increasingly popular due to its potential to revolutionize various industries and improve efficiency.
 - 🧠 The human brain serves as the center of intelligence, processing information from different senses to make decisions. Similarly, AI acts as an artificial brain that processes data from various sources, such as images, videos, and audio, to determine the next course of action.
 - 💻 AI is developed through coding and programming. It involves using programming languages to create algorithms and instructions that enable machines to perform tasks and make decisions autonomously. This coding aspect sets AI apart from other technologies.
+
+
 <a name="id"></a>
 [**Back to HOME**](#100)
 
