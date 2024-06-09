@@ -4,7 +4,7 @@
 **Content:**
 <a name="id"></a>
 [1. What is AI?](#1)
-[Saving OHE as Model](#2)
+[2. Saving OHE as Model](#2)
 
 
 
