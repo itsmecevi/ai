@@ -16,4 +16,5 @@ ____
 **What is AI?**
 
 Summary: 
-Artificial Intelligence, or AI, is the concept of creating machines that can process information and make decisions like humans. It involves coding and programming to replicate human intelligence.
+
+> Artificial Intelligence, or AI, is the concept of creating machines that can process information and make decisions like humans. It involves coding and programming to replicate human intelligence.
