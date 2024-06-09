@@ -15,8 +15,11 @@ ____
 <a name="1"></a>
 **What is AI?**
 
-> Summary: 
+**Summary:**
 
 Artificial Intelligence, or AI, is the concept of creating machines that can process information and make decisions like humans. It involves coding and programming to replicate human intelligence.
 
-> Highlights
+**Highlights:**
+- 🤖 AI, or Artificial Intelligence, is also known as kecerdasan buatan in Indonesian.
+- 🧠 AI processes information from various sources, such as images, videos, and audio, to make decisions.
+- 💻 AI is coded using programming languages and can replicate human intelligence.
