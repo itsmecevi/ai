@@ -5,6 +5,8 @@
 <a name="id"></a>
 1. [What is AI?](#1)
 2. [Machine that can learn?](#2)
+3. [Machine that can't learn: Rule-Based System](#3)
+
 
 
 
@@ -60,4 +62,38 @@ Key Insights:
   - Few shot learning
   - Zero shot learning
   - etc
-  - 
+
+
+<a name="3"></a>
+**3. Machine that can't learn: Rule-Based System**
+
+Summary:
+
+AI that doesn't learn, such as temperature control AI or spam email filtering AI, operates based on a rule-based system without using machine learning. Although simple, rule-based systems often struggle to list all necessary rules. In some cases, the use of machine learning can help AI implicitly learn these rules.
+
+Highlights: 
+- 🤖 Temperature control AI and spam email filtering AI are examples of AI that don't learn.
+- 🌡️ Temperature control AI uses a rule-based system to turn on or off the AC based on room temperature.
+- 📧 Spam filter AI can be programmed to filter emails based on specific words or the absence of the recipient's name.
+- 🤔 Rule-based systems often struggle to list all necessary rules.
+- 🧠 The use of machine learning can help AI learn these rules implicitly.
+- 💡 Machine learning can be used to make temperature control AI more efficient and energy-saving.
+- 🔍 Machine learning helps AI distinguish spam emails from non-spam emails.
+
+Key Insights: 
+- 🤖 Temperature control AI and spam email filtering AI are examples of AI that don't learn through machine learning. They use a rule-based system to perform actions based on predefined conditions.
+- 🌡️ In temperature control AI, room temperature serves as input, while turning the AC on or off serves as output. This AI doesn't need to learn the optimal temperature to turn the AC on or off because users or programmers can set the desired temperature.
+- 📧 In spam email filtering AI, a rule-based system is used to filter emails based on specific words or the absence of the recipient's name. However, it's often challenging to list all necessary rules, such as rules to avoid filtering normal emails as spam.
+- 🤔 This poses a challenge in using rule-based systems because it's difficult to explicitly define all required rules.
+- 🧠 To address this issue, machine learning can be used to allow AI to implicitly learn these rules. For example, in temperature control AI, machine learning can learn room temperature patterns, electricity usage, or the presence of people to make AC settings more efficient.
+- 💡 The use of machine learning also helps spam email filtering AI distinguish between spam and non-spam emails. AI can learn from sets of spam and non-spam emails to recognize patterns that differentiate them.
+- 🔍 Thus, the use of machine learning can enhance the performance of AI that doesn't learn through rule-based systems, making it more adaptive and efficient in its tasks.
+
+
+
+
+
+
+
+
+
