@@ -3,8 +3,8 @@
 
 **Content:**
 <a name="id"></a>
-1. [What is AI?](#1)
-2. [Saving OHE as Model](#2)
+[1. What is AI?](#1)
+[Saving OHE as Model](#2)
 
 
 
@@ -13,7 +13,7 @@ ____
 
 
 <a name="1"></a>
-**What is AI?**
+**1. What is AI?**
 
 **Summary:**
 
