@@ -6,6 +6,7 @@
 1. [What is AI?](#1)
 2. [Machine that can learn?](#2)
 3. [Machine that can't learn: Rule-Based System](#3)
+4. [3 Factors of AI Booming](#4)
 
 
 
@@ -88,6 +89,27 @@ Key Insights:
 - 🧠 To address this issue, machine learning can be used to allow AI to implicitly learn these rules. For example, in temperature control AI, machine learning can learn room temperature patterns, electricity usage, or the presence of people to make AC settings more efficient.
 - 💡 The use of machine learning also helps spam email filtering AI distinguish between spam and non-spam emails. AI can learn from sets of spam and non-spam emails to recognize patterns that differentiate them.
 - 🔍 Thus, the use of machine learning can enhance the performance of AI that doesn't learn through rule-based systems, making it more adaptive and efficient in its tasks.
+
+
+<a name="4"></a>
+**4. 3 Factors of AI Booming**
+
+Summary: 
+The recent boom in AI is attributed to advancements in neural network ideas and mathematical models, the creation of the ImageNet dataset, the success of deep learning in the ImageNet challenge competition, and hardware developments supporting the computational requirements of deep learning.
+
+Highlights: 
+- 🧠 AI has been around for a long time with neural network ideas and mathematical models dating back to 1943 and machine learning and deep learning programs in 1952 and 1965.
+- 🌐 The ImageNet dataset, formed in 2009, provides numerous image-label pairs for AI experimentation purposes.
+- 🏆 AlexNet, utilizing deep learning and convolutional neural networks, won the ImageNet challenge competition in 2012.
+- 💻 Hardware advancements, such as GPUs faster than CPUs, support the computational capabilities of deep learning.
+
+Key Insights: 
+🧠 Long-standing advancements in neural network ideas and mathematical models have been instrumental in AI development, emphasizing the importance of research and experimentation in creating innovative technology.
+🌐 The ImageNet dataset has played a crucial role in AI development by providing a large and diverse dataset for training AI models. This aids in enhancing AI accuracy and performance.
+🏆 The success of deep learning in the ImageNet challenge marks a turning point in AI popularity, showcasing that deep learning can overcome the limitations of traditional machine learning and deliver superior results.
+💻 Hardware developments, particularly faster GPUs compared to CPUs, enable more efficient and effective deep learning operations. This allows more people to learn and develop AI with easier access to the required computational resources.
+
+
 
 
 
