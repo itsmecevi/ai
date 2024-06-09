@@ -7,6 +7,7 @@
 2. [Machine that can learn?](#2)
 3. [Machine that can't learn: Rule-Based System](#3)
 4. [Factors of AI Booming](#4)
+5. [What AI can do?](#5)
 
 
 
@@ -111,8 +112,33 @@ Key Insights:
 
 
 
+<a name="5"></a>
+**5. What can AI do?**
+
+Summary: 
+AI can perform various tasks, such as 1. classification, 2. regression, 3. speech transcription, 4. translation, 5. anomaly detection, 6. data synthesis, and 7. denoising.
+
+Highlights: 
+- 🖼️ AI can predict the type or class of an input, such as image or object type.
+- 🔢 AI can predict numbers, such as future house prices or the number of COVID cases next month.
+- 🎙️ AI can convert speech input into text, as seen in Siri or Google Street View.
+- 🌐 AI can translate languages from one to another, like Google Translate.
+- 🚫 AI can detect anomalies, such as unusual credit card usage or unusual criminal activities.
+- 🖼️ AI can synthesize new data resembling existing datasets, such as medical images.
+- 📷 AI can clean noisy inputs, such as blurry photos or unclear sounds.
 
 
+Key Insights: 
+- 🖼️ Classification is a crucial AI task, used to recognize image or object types. The ImageNet dataset is a well-known dataset for image classification tasks.
+  - Binary Classification
+  - Multiclass Classification
+  - Mutlilabel Classification
+- 🔢 Regression enables AI to predict numbers, such as future house prices or the number of COVID cases next month. This can aid in decision-making and planning.
+- 🎙️ Speech transcription allows AI to perform speech recognition, as seen in Siri or Google Street View. This facilitates user information search or command execution.
+- 🌐 Machine translators like Google Translate utilize AI to translate languages from one to another, enabling easier cross-language communication.
+- 🚫 AI-based anomaly detection can help protect against fraud or unusual criminal activities. For example, detecting unusual credit card usage or criminal activities detected through CCTV data processing.
+- 🖼️ AI data synthesis allows for the creation of new data resembling existing datasets. This can be used to improve AI accuracy by learning from more data.
+- 📷 AI denoising can clean noisy inputs, such as blurry photos or unclear sounds. This can enhance the quality of images or sounds used.
 
 
 
