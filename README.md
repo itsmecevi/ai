@@ -50,3 +50,14 @@ Key Insights:
 - 🧒 The concept of machine learning is inspired by how humans learn, such as through question and answer sessions and trial and error.
 - 📚 Supervised learning is a type of machine learning where machines learn from labeled examples and corresponding answers. It helps machines recognize patterns and make accurate predictions.
 - 🚲 Reinforcement learning is another type of machine learning where machines learn through rewards and punishments. It enables machines to learn optimal behavior based on the outcomes of their actions.
+- 🤖 Another machine learning type:
+  - Supervised
+  - Reinforcement
+  - Unsupervised
+  - Transfer learning
+  - Semi supervised
+  - Self supervised
+  - Few shot learning
+  - Zero shot learning
+  - etc
+  - 
