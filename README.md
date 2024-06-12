@@ -128,7 +128,7 @@ Key Insights:
 **5. What can AI do?**
 
 Summary: 
-AI can perform various tasks, such as 1. classification, 2. regression, 3. speech transcription, 4. translation, 5. anomaly detection, 6. data synthesis, and 7. denoising.
+AI can perform various tasks, such as 1. classification, 2. regression, 3. speech transcription (voice to text, text to voice), 4. language translation, 5. anomaly detection, 6. data synthesis (gen ai), and 7. denoising (removing noise).
 
 Highlights: 
 - 🖼️ AI can predict the type or class of an input, such as image or object type.
